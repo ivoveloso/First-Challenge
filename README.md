@@ -33,6 +33,7 @@ Before CSS and HTML
 
 After CSS and HTML
 
+![AFTER](assets/images/image2.png)
 
 ## Credits
 

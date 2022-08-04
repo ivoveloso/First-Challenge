@@ -1,9 +1,10 @@
+/* General style */
 * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-sizing: border-box;
     margin: 0;
 }
-
+/* Elements styles*/
 body {
     background-color: #d9dcd6;
 }
@@ -21,8 +22,15 @@ h1 {
     font-size: 48px;
 }
 
-#seo {
-    color: #d9dcd6;
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    color: #ffffff;
 }
 
 div {
@@ -42,7 +50,20 @@ a {
     text-decoration: none;
 }
 
+p {
+    color: #ffffff;
+}
 
+footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+/* Element within element style */
+footer p {
+color: #000000;
+}
+/* Class styles */ 
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,16 +98,6 @@ a {
     margin-bottom: 15px;
 }
 
-p {
-    color: #ffffff;
-}
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-    color: #ffffff;
-}
-
 .content-opt {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,15 +105,7 @@ h3 {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+/* ID styles */
+#seo {
+    color: #d9dcd6;
 }
