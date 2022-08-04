@@ -27,11 +27,12 @@ No installation is required. The code is currently deployed in github pages! The
 
 Add pictures of before and after HTML and CSS
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Before CSS and HTML
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![BEFORE](assets/images/image1.png)
+
+After CSS and HTML
+
 
 ## Credits
 
